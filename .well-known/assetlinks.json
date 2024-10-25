@@ -1,9 +1,50 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.stuzo.chevrondev",
-    "sha256_cert_fingerprints":
-    ["65:DD:75:9B:5F:FD:9D:B1:E8:AA:B5:03:D8:D0:E7:05:3B:EC:CF:7E:CA:82:28:25:09:20:25:5A:01:F1:C6:BF"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.stuzo.chevrondev",
+      "sha256_cert_fingerprints": [
+        "65:DD:75:9B:5F:FD:9D:B1:E8:AA:B5:03:D8:D0:E7:05:3B:EC:CF:7E:CA:82:28:25:09:20:25:5A:01:F1:C6:BF"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.stuzo.chevrontest",
+      "sha256_cert_fingerprints": [
+        "65:DD:75:9B:5F:FD:9D:B1:E8:AA:B5:03:D8:D0:E7:05:3B:EC:CF:7E:CA:82:28:25:09:20:25:5A:01:F1:C6:BF"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.stuzo.chevronstage",
+      "sha256_cert_fingerprints": [
+        "65:DD:75:9B:5F:FD:9D:B1:E8:AA:B5:03:D8:D0:E7:05:3B:EC:CF:7E:CA:82:28:25:09:20:25:5A:01:F1:C6:BF"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.stuzo.chevron",
+      "sha256_cert_fingerprints": [
+        "65:DD:75:9B:5F:FD:9D:B1:E8:AA:B5:03:D8:D0:E7:05:3B:EC:CF:7E:CA:82:28:25:09:20:25:5A:01:F1:C6:BF"
+      ]
+    }
   }
-}]
+]
