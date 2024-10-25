@@ -1,1 +1,9 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.stuzo.chevrondev",
+    "sha256_cert_fingerprints":
+    ["F8:54:3A:57:F8:06:59:5F:87:03:01:AA:5E:F4:66:75:59:BE:BB:E8:23:26:3A:F6:7F:D5:DD:12:71:A8:F4:0A"]
+  }
+}]
